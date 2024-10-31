@@ -1,0 +1,7 @@
+C:\Users\Emirh\source\repos\CSharpEgitimKampi\x2_Variables (Degiskenler)\bin\Debug\x2_Variables (Degiskenler).exe.config
+C:\Users\Emirh\source\repos\CSharpEgitimKampi\x2_Variables (Degiskenler)\bin\Debug\x2_Variables (Degiskenler).exe
+C:\Users\Emirh\source\repos\CSharpEgitimKampi\x2_Variables (Degiskenler)\bin\Debug\x2_Variables (Degiskenler).pdb
+C:\Users\Emirh\source\repos\CSharpEgitimKampi\x2_Variables (Degiskenler)\obj\Debug\x2_Variables (Degiskenler).csproj.AssemblyReference.cache
+C:\Users\Emirh\source\repos\CSharpEgitimKampi\x2_Variables (Degiskenler)\obj\Debug\x2_Variables (Degiskenler).csproj.CoreCompileInputs.cache
+C:\Users\Emirh\source\repos\CSharpEgitimKampi\x2_Variables (Degiskenler)\obj\Debug\x2_Variables (Degiskenler).exe
+C:\Users\Emirh\source\repos\CSharpEgitimKampi\x2_Variables (Degiskenler)\obj\Debug\x2_Variables (Degiskenler).pdb
