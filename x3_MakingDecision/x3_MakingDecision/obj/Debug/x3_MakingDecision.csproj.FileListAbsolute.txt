@@ -1,0 +1,7 @@
+C:\Users\Emirh\source\repos\x3_MakingDecision\x3_MakingDecision\bin\Debug\x3_MakingDecision.exe.config
+C:\Users\Emirh\source\repos\x3_MakingDecision\x3_MakingDecision\bin\Debug\x3_MakingDecision.exe
+C:\Users\Emirh\source\repos\x3_MakingDecision\x3_MakingDecision\bin\Debug\x3_MakingDecision.pdb
+C:\Users\Emirh\source\repos\x3_MakingDecision\x3_MakingDecision\obj\Debug\x3_MakingDecision.csproj.AssemblyReference.cache
+C:\Users\Emirh\source\repos\x3_MakingDecision\x3_MakingDecision\obj\Debug\x3_MakingDecision.csproj.CoreCompileInputs.cache
+C:\Users\Emirh\source\repos\x3_MakingDecision\x3_MakingDecision\obj\Debug\x3_MakingDecision.exe
+C:\Users\Emirh\source\repos\x3_MakingDecision\x3_MakingDecision\obj\Debug\x3_MakingDecision.pdb
